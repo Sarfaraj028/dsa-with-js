@@ -12,5 +12,5 @@ This repo contains my solutions to LeetCode problems in JavaScript.
 
 | # | Title              | Solution |
 |---|--------------------|----------|
-| 26 | Remove Element     | [JS](./array/26-removeElement.js) |
+| 26 | Remove Element     | [Link](./array/026-removeElement.js) |
 

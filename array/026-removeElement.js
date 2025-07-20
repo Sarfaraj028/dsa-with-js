@@ -3,8 +3,7 @@
  * Given an integer array nums and an integer val, remove all occurrences of val in-place.
  * Return the number of elements not equal to val.
  * 
- * ✅ Time: O(n)
- * ✅ Space: O(1)
+ *  Time: O(n) | Space: O(1)
  */
 
 function removeElement(nums, val) {

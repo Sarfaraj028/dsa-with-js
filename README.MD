@@ -17,7 +17,8 @@ The goal of this repo is to improve problem-solving skills, prepare for coding i
 
 ### 🔢 Problem List
 
-| ## | Title              | Solution |
+| # | Title              | Solution |
 |---|--------------------|----------|
 | 26 | Remove Element     | [Link](./array/026-removeElement.js) |
+| 01 | Two Sum           | [Link](./array/001-twoSum.js) |
 
